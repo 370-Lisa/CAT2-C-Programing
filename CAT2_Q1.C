@@ -1,3 +1,9 @@
+//code for creating structure
+/*
+Author: LISA NYAGUTHII NJERU
+Date: 7/11/2024
+Registration number: CT102/G/24501/24
+*/
 #include<stdio.h>
 #include<string.h>
 
